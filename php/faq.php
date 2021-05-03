@@ -130,6 +130,17 @@ $faq = [
             ],
         ]
     ],
-];
 
-var_dump($faq);
+    'section_7' => [
+        'title' => "Come state implementando la recente decisione della Corte di giustizia dell'Unione europea (CGUE) relativa al diritto all'oblio?",
+        'paragraphs' => [
+            " <ol>
+
+                <li>
+                </li>
+
+            </ol> ",
+            " <ol></ol> ",
+        ]
+    ],
+];
